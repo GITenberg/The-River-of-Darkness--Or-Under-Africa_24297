@@ -1,0 +1,28 @@
+_repo: The-River-of-Darkness--Or-Under-Africa_24297
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graydon, William Murray
+    alias: Graydon, W. Murray (William Murray)
+    birthdate: 1864
+    deathdate: 1946
+    gutenberg_agent_id: '24953'
+    url: http://www.gutenberg.org/2009/agents/24953
+description: ''
+gutenberg_issued: '2008-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24297'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Adventure stories'
+- !lcsh 'Africa -- Fiction'
+title: The River of Darkness; Or, Under Africa
+url: http://www.gutenberg.org/ebooks/24297
